@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Classic Windows Notepad++ Icon: White Ruled Notepad + Green Chameleon + Green Pencil -->
+  <!-- Notepad drop shadow -->
+  <g transform="rotate(-7 256 256)">
+    <rect x="86" y="64" width="332" height="396" rx="18" fill="#1e293b" opacity="0.22"/>
+    <!-- White paper pad -->
+    <path d="M80 56 h264 l68 68 v320 a16 16 0 0 1 -16 16 h-316 a16 16 0 0 1 -16 -16 v-372 a16 16 0 0 1 16 -16 z"
+          fill="#ffffff" stroke="#475569" stroke-width="10"/>
+    <!-- Folded corner -->
+    <path d="M344 56 v52 a16 16 0 0 0 16 16 h52 z" fill="#dbeafe" stroke="#475569" stroke-width="8" stroke-linejoin="round"/>
+    <!-- Spiral binding holes at top -->
+    <circle cx="122" cy="86" r="10" fill="#cbd5e1" stroke="#64748b" stroke-width="4"/>
+    <circle cx="168" cy="86" r="10" fill="#cbd5e1" stroke="#64748b" stroke-width="4"/>
+    <circle cx="214" cy="86" r="10" fill="#cbd5e1" stroke="#64748b" stroke-width="4"/>
+    <circle cx="260" cy="86" r="10" fill="#cbd5e1" stroke="#64748b" stroke-width="4"/>
+    <circle cx="306" cy="86" r="10" fill="#cbd5e1" stroke="#64748b" stroke-width="4"/>
+    <!-- Red vertical margin rule -->
+    <line x1="138" y1="112" x2="138" y2="446" stroke="#f87171" stroke-width="5"/>
+    <!-- Blue horizontal ruled lines -->
+    <line x1="94" y1="154" x2="386" y2="154" stroke="#93c5fd" stroke-width="5"/>
+    <line x1="94" y1="196" x2="386" y2="196" stroke="#93c5fd" stroke-width="5"/>
+    <line x1="94" y1="238" x2="386" y2="238" stroke="#93c5fd" stroke-width="5"/>
+    <line x1="94" y1="280" x2="386" y2="280" stroke="#93c5fd" stroke-width="5"/>
+    <line x1="94" y1="322" x2="386" y2="322" stroke="#93c5fd" stroke-width="5"/>
+    <line x1="94" y1="364" x2="386" y2="364" stroke="#93c5fd" stroke-width="5"/>
+    <line x1="94" y1="406" x2="386" y2="406" stroke="#93c5fd" stroke-width="5"/>
+  </g>
+
+  <!-- Diagonal Green Pencil (held by the Chameleon) -->
+  <g transform="translate(274, 304) rotate(-40)">
+    <!-- Wooden tip -->
+    <polygon points="-140,0 -196,17 -140,34" fill="#fde68a" stroke="#14532d" stroke-width="7" stroke-linejoin="round"/>
+    <!-- Graphite lead -->
+    <polygon points="-174,10 -196,17 -174,24" fill="#1e293b"/>
+    <!-- Pencil green barrel -->
+    <rect x="-140" y="0" width="276" height="34" rx="4" fill="#4ade80" stroke="#14532d" stroke-width="7"/>
+    <line x1="-140" y1="12" x2="136" y2="12" stroke="#22c55e" stroke-width="6"/>
+    <!-- Eraser metal ferrule -->
+    <rect x="136" y="1" width="20" height="32" fill="#cbd5e1" stroke="#14532d" stroke-width="6"/>
+    <!-- Pink eraser -->
+    <rect x="156" y="2" width="24" height="30" rx="6" fill="#fda4af" stroke="#14532d" stroke-width="6"/>
+  </g>
+
+  <!-- Iconic Notepad++ Green Chameleon sitting on the pencil -->
+  <g>
+    <!-- Curled spiral tail -->
+    <path d="M168 352 C110 370, 74 330, 88 282 C100 242, 148 244, 152 278 C156 302, 128 312, 118 296"
+          fill="none" stroke="#14532d" stroke-width="34" stroke-linecap="round"/>
+    <path d="M168 352 C110 370, 74 330, 88 282 C100 242, 148 244, 152 278 C156 302, 128 312, 118 296"
+          fill="none" stroke="#84cc16" stroke-width="22" stroke-linecap="round"/>
+
+    <!-- Chameleon body arch -->
+    <path d="M164 348 C152 246, 224 166, 324 168 C374 169, 412 198, 418 238 C422 266, 384 282, 344 274 C308 267, 290 290, 260 322 C230 354, 186 364, 164 348 Z"
+          fill="#84cc16" stroke="#14532d" stroke-width="9" stroke-linejoin="round"/>
+
+    <!-- Lighter lime belly/stripe highlight -->
+    <path d="M196 314 C202 250, 250 202, 314 200"
+          fill="none" stroke="#bef264" stroke-width="14" stroke-linecap="round"/>
+
+    <!-- Chameleon dorsal ridges -->
+    <path d="M214 204 L224 186 L236 198 L250 176 L264 190 L282 170 L294 186"
+          fill="none" stroke="#65a30d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Gripping front & back feet around the pencil -->
+    <path d="M236 318 C240 342, 262 350, 274 332" fill="#84cc16" stroke="#14532d" stroke-width="8" stroke-linecap="round"/>
+    <path d="M322 266 C332 288, 356 290, 362 272" fill="#84cc16" stroke="#14532d" stroke-width="8" stroke-linecap="round"/>
+
+    <!-- Iconic dome-shaped Chameleon Eye -->
+    <circle cx="364" cy="212" r="26" fill="#ecfccb" stroke="#14532d" stroke-width="7"/>
+    <circle cx="364" cy="212" r="16" fill="#fde047" stroke="#65a30d" stroke-width="3"/>
+    <circle cx="368" cy="210" r="8" fill="#0f172a"/>
+    <circle cx="371" cy="207" r="3" fill="#ffffff"/>
+
+    <!-- Friendly chameleon smile -->
+    <path d="M380 250 Q398 256, 412 242" fill="none" stroke="#14532d" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>

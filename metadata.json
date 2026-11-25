@@ -1,0 +1,6 @@
+{
+  "name": "Notepad++",
+  "description": "Notepad++ for Android — authentic Windows Notepad++ multi-tab text & code editor with syntax highlighting, Find & Replace, Document Map, and offline PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
